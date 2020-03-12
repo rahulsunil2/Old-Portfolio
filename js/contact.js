@@ -50,7 +50,7 @@ $(document).ready(function(){
                 },
                 message: {
                     required: "Why send an empty message?",
-                    minlength: "Oh come on, 20 characters atleast, come on smash that space bar to fill up."
+                    minlength: "Oh come on, 20 characters atleast."
                 }
             },
             submitHandler: function(form) {

@@ -2,108 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ddb9175-800b-4f23-9dc5-0c09918a8429" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/about/my_img - Copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/CuraZon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/abcBank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/agrivision.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/defense.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo-copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg_icon/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg_icon/Neural_network.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg_icon/artificial-intelligence.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg_icon/cloud.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg_icon/code.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg_icon/machine-learning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg_icon/python.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/my_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/my_img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/author.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/learn_about_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/slide_thumb_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/case/testmonial.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/comment/comment_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/comment/comment_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/comment/comment_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/a2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/disabled-check.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/disabled-radio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/f1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/f2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/f3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/f4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/f5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/f6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/f7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/f8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/g1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/g2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/g3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/g4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/g5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/g6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/g7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/g8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/primary-check.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/primary-radio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/success-check.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elements/success-radio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/explorer/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/explorer/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/explorer/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/explorer/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/explorer/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/explorer/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/works_banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/post_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/property/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/property/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/property/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/property/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/property/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/property/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg_icon/1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg_icon/2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg_icon/3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-blog.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -132,25 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="62" column="61" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="62" selection-end-column="61" />
+            <state relative-caret-position="-199">
+              <caret line="119" column="75" lean-forward="true" selection-start-line="119" selection-start-column="75" selection-end-line="119" selection-end-column="75" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact_process.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/contact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-267">
-              <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
+            <state relative-caret-position="158">
+              <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -175,9 +70,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/jquery.validate.min.js" />
-        <option value="$PROJECT_DIR$/js/contact.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/js/contact.js" />
       </list>
     </option>
   </component>
@@ -267,24 +162,24 @@
       <workItem from="1583912145426" duration="669000" />
       <workItem from="1583931174970" duration="11289000" />
       <workItem from="1583963472823" duration="2253000" />
-      <workItem from="1583991553223" duration="8192000" />
+      <workItem from="1583991553223" duration="9526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10445000" />
+    <option name="totallyTimeSpent" value="11779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1064" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32982087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32982087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3952739" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3952739" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -420,16 +315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact_process.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/contact.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-267">
-          <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -446,8 +331,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="62" column="61" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="62" selection-end-column="61" />
+        <state relative-caret-position="-199">
+          <caret line="119" column="75" lean-forward="true" selection-start-line="119" selection-start-column="75" selection-end-line="119" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact_process.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
         </state>
       </provider>
     </entry>
