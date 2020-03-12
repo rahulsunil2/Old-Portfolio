@@ -2,9 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ddb9175-800b-4f23-9dc5-0c09918a8429" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/rahul.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about/my_img - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/CuraZon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/abcBank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/agrivision.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/defense.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg_icon/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg_icon/Neural_network.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg_icon/artificial-intelligence.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg_icon/cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg_icon/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg_icon/machine-learning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg_icon/python.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/my_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/my_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/learn_about_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/single_blog_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/slide_thumb_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/case/testmonial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/comment/comment_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/comment/comment_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/comment/comment_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/disabled-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/disabled-radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/primary-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/primary-radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/success-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/success-radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/explorer/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/explorer/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/explorer/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/explorer/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/explorer/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/explorer/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/works_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/post_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/property/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/property/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/property/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/property/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/property/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/property/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg_icon/1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg_icon/2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg_icon/3.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-blog.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,32 +115,88 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="600">
+              <caret line="66" column="57" lean-forward="true" selection-start-line="54" selection-start-column="48" selection-end-line="66" selection-end-column="57" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="62" column="61" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="62" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact_process.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/contact.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-267">
+              <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>behance</find>
+      <find>fa-behance</find>
+      <find>media con</find>
+      <find>media contact</find>
+      <find>novalidate</find>
+      <find>no email</find>
+      <find>come on</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1208" />
-    <option name="width" value="719" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/jquery.validate.min.js" />
+        <option value="$PROJECT_DIR$/js/contact.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-13" />
+    <option name="y" value="-17" />
+    <option name="width" value="1932" />
     <option name="height" value="1055" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1Yz2Zgt9YztV7BJEkHFFPpn5KKG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -49,17 +204,28 @@
               <item name="rahulsunil2.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="rahulsunil2.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rahulsunil2.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rahulsunil2.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,6 +249,11 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1583994909275" text="behance" recursive="true" caseInsensitive="true" type="XML" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,30 +264,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583912140196</updated>
-      <workItem from="1583912145426" duration="455000" />
+      <workItem from="1583912145426" duration="669000" />
+      <workItem from="1583931174970" duration="11289000" />
+      <workItem from="1583963472823" duration="2253000" />
+      <workItem from="1583991553223" duration="8192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="455000" />
+    <option name="totallyTimeSpent" value="10445000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="362" y="562" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1064" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32982087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3952739" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -125,11 +300,154 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Web_Browsers" timestamp="1583939594189">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="552" y="181" key="#Web_Browsers/0.0.1920.1048@0.0.1920.1048" timestamp="1583939594189" />
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583939622910">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1048@0.0.1920.1048" timestamp="1583939622910" />
+    <state width="1899" height="310" key="GridCell.Tab.0.bottom" timestamp="1583961693781">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693781" />
+    <state width="1362" height="310" key="GridCell.Tab.0.bottom/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935671314" />
+    <state width="1899" height="310" key="GridCell.Tab.0.center" timestamp="1583961693780">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.center/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693780" />
+    <state width="1362" height="310" key="GridCell.Tab.0.center/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935671313" />
+    <state width="1899" height="310" key="GridCell.Tab.0.left" timestamp="1583961693779">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.left/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693779" />
+    <state width="1362" height="310" key="GridCell.Tab.0.left/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935671313" />
+    <state width="1899" height="310" key="GridCell.Tab.0.right" timestamp="1583961693780">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.0.right/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693780" />
+    <state width="1362" height="310" key="GridCell.Tab.0.right/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935671313" />
+    <state width="1899" height="310" key="GridCell.Tab.1.bottom" timestamp="1583961693576">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.1.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693576" />
+    <state width="1362" height="310" key="GridCell.Tab.1.bottom/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670916" />
+    <state width="1899" height="310" key="GridCell.Tab.1.center" timestamp="1583961693576">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.1.center/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693576" />
+    <state width="1362" height="310" key="GridCell.Tab.1.center/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670916" />
+    <state width="1899" height="310" key="GridCell.Tab.1.left" timestamp="1583961693575">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.1.left/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693575" />
+    <state width="1362" height="310" key="GridCell.Tab.1.left/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670916" />
+    <state width="1899" height="310" key="GridCell.Tab.1.right" timestamp="1583961693576">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.1.right/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693576" />
+    <state width="1362" height="310" key="GridCell.Tab.1.right/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670916" />
+    <state width="1899" height="310" key="GridCell.Tab.2.bottom" timestamp="1583961693577">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.2.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693577" />
+    <state width="1362" height="310" key="GridCell.Tab.2.bottom/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670917" />
+    <state width="1899" height="310" key="GridCell.Tab.2.center" timestamp="1583961693576">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.2.center/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693576" />
+    <state width="1362" height="310" key="GridCell.Tab.2.center/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670916" />
+    <state width="1899" height="310" key="GridCell.Tab.2.left" timestamp="1583961693576">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.2.left/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693576" />
+    <state width="1362" height="310" key="GridCell.Tab.2.left/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670916" />
+    <state width="1899" height="310" key="GridCell.Tab.2.right" timestamp="1583961693576">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.2.right/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693576" />
+    <state width="1362" height="310" key="GridCell.Tab.2.right/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670916" />
+    <state width="1899" height="310" key="GridCell.Tab.3.bottom" timestamp="1583961693577">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.3.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693577" />
+    <state width="1362" height="310" key="GridCell.Tab.3.bottom/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670917" />
+    <state width="1899" height="310" key="GridCell.Tab.3.center" timestamp="1583961693577">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.3.center/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693577" />
+    <state width="1362" height="310" key="GridCell.Tab.3.center/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670917" />
+    <state width="1899" height="310" key="GridCell.Tab.3.left" timestamp="1583961693577">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.3.left/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693577" />
+    <state width="1362" height="310" key="GridCell.Tab.3.left/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670917" />
+    <state width="1899" height="310" key="GridCell.Tab.3.right" timestamp="1583961693577">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1899" height="310" key="GridCell.Tab.3.right/0.0.1920.1048@0.0.1920.1048" timestamp="1583961693577" />
+    <state width="1362" height="310" key="GridCell.Tab.3.right/1920.-142.1920.1048/0.0.1920.1048@0.0.1920.1048" timestamp="1583935670917" />
+    <state x="461" y="166" key="SettingsEditor" timestamp="1583939715742">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="461" y="166" key="SettingsEditor/0.0.1920.1048/1920.0.1360.738@0.0.1920.1048" timestamp="1583931324714" />
+    <state x="461" y="166" key="SettingsEditor/0.0.1920.1048@0.0.1920.1048" timestamp="1583939715742" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="266" column="41" selection-start-line="266" selection-start-column="41" selection-end-line="266" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="651" column="7" selection-start-line="651" selection-start-column="7" selection-end-line="651" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.validate.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact_process.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267">
+          <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="600">
+          <caret line="66" column="57" lean-forward="true" selection-start-line="54" selection-start-column="48" selection-end-line="66" selection-end-column="57" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="62" column="61" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="62" selection-end-column="61" />
         </state>
       </provider>
     </entry>

@@ -21,8 +21,7 @@ $(document).ready(function(){
                     minlength: 4
                 },
                 number: {
-                    required: true,
-                    minlength: 5
+                    required: false
                 },
                 email: {
                     required: true,
@@ -35,11 +34,11 @@ $(document).ready(function(){
             },
             messages: {
                 name: {
-                    required: "come on, you have a name, don't you?",
+                    required: "Your name is your identity, your primary key, your identifier, need I go on?",
                     minlength: "your name must consist of at least 2 characters"
                 },
                 subject: {
-                    required: "come on, you have a subject, don't you?",
+                    required: "Kings have subjects, so does messages.",
                     minlength: "your subject must consist of at least 4 characters"
                 },
                 number: {
@@ -47,11 +46,11 @@ $(document).ready(function(){
                     minlength: "your Number must consist of at least 5 characters"
                 },
                 email: {
-                    required: "no email, no message"
+                    required: "What if I have to write back?"
                 },
                 message: {
-                    required: "um...yea, you have to write something to send this form.",
-                    minlength: "thats all? really?"
+                    required: "Why send an empty message?",
+                    minlength: "Oh come on, 20 characters atleast, come on smash that space bar to fill up."
                 }
             },
             submitHandler: function(form) {

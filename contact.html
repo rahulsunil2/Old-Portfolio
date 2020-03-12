@@ -4,12 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Jony</title>
+    <title>Rahul</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
 
-    <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -50,23 +49,19 @@
                                     <div class="main-menu  d-none d-lg-block">
                                         <nav>
                                             <ul id="navigation">
-                                                <li><a href="index.html">home</a></li>
-                                                <li><a href="Works.html">Works</a></li>
-                                                <li><a href="Services.html">Services</a></li>
-                                                <li><a href="#">pages <i class="ti-angle-down"></i></a>
-                                                    <ul class="submenu">
-                                                        <li><a href="works_details.html">work details</a></li>
-                                                        <li><a href="elements.html">elements</a></li>
-                                                    </ul>
+                                                <!--<li><a href="0">Works <i class="ti-angle-down"></i></a>-->
+                                                    <!--<ul class="submenu">-->
+                                                        <!--<li><a href="Agrivision.html">AgriVision</a></li>-->
+                                                        <!--<li><a href="DefenseCrawler.html">DefenseCrawler</a></li>-->
+                                                        <!--<li><a href="Bank.html">Bank</a></li>-->
+                                                        <!--<li><a href="Curazon.html">CuraZon</a></li>-->
+                                                    <!--</ul>-->
+                                                <!--</li>-->
+                                                <!--<li><a href="0">Achievements<i class="ti-angle-down"></i></a>-->
+                                                    <!--<ul class="submenu">-->
+                                                        <!--<li><a href="d3code.html">work details</a></li>-->
+                                                    <!--</ul>-->
                                                 </li>
-                                                <li><a href="about.html">about</a></li>
-                                                <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                                    <ul class="submenu">
-                                                        <li><a href="blog.html">blog</a></li>
-                                                        <li><a href="single-blog.html">single-blog</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="contact.html">Contact</a></li>
                                             </ul>
                                         </nav>
                                     </div>
@@ -74,7 +69,7 @@
                                 <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                     <div class="Appointment">
                                         <div class="book_btn d-none d-lg-block">
-                                            <a href="#">Let’s Talk</a>
+                                            <a href="index.html">Home</a>
                                         </div>
                                     </div>
                                 </div>
@@ -106,35 +101,6 @@
   <!-- ================ contact section start ================= -->
   <section class="contact-section section_padding">
     <div class="container">
-      <div class="d-none d-sm-block mb-5 pb-4">
-        <div id="map" style="height: 480px;"></div>
-        <script>
-          function initMap() {
-            var uluru = {lat: -25.363, lng: 131.044};
-            var grayStyles = [
-              {
-                featureType: "all",
-                stylers: [
-                  { saturation: -90 },
-                  { lightness: 50 }
-                ]
-              },
-              {elementType: 'labels.text.fill', stylers: [{color: '#ccdee9'}]}
-            ];
-            var map = new google.maps.Map(document.getElementById('map'), {
-              center: {lat: -31.197, lng: 150.744},
-              zoom: 9,
-              styles: grayStyles,
-              scrollwheel:  false
-            });
-          }
-          
-        </script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&callback=initMap"></script>
-        
-      </div>
-
-
       <div class="row">
         <div class="col-12">
           <h2 class="contact-title">Get in Touch</h2>
@@ -144,8 +110,20 @@
             <div class="row">
               <div class="col-12">
                 <div class="form-group">
-                  
                     <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" placeholder = 'Enter Message'></textarea>
+                    <script>
+                        var el;
+                        function countCharacters(e) {
+                            var textEntered, countRemaining, counter;
+                            textEntered = document.getElementById('message').value;
+                            counter = (140 - (textEntered.length));
+                            countRemaining = document.getElementById('charactersRemaining');
+                            countRemaining.textContent = counter;
+                        }
+                        el = document.getElementById('tweet');
+                        el.addEventListener('keyup', countCharacters, false);
+                    </script>
+                    <span id="chars">100</span> characters remaining
                 </div>
               </div>
               <div class="col-sm-6">
@@ -173,22 +151,15 @@
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-home"></i></span>
             <div class="media-body">
-              <h3>Buttonwood, California.</h3>
-              <p>Rosemead, CA 91770</p>
+              <h3>Thiruvananthapuram.</h3>
+              <p>Kerala, India</p>
             </div>
           </div>
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
             <div class="media-body">
-              <h3>00 (440) 9865 562</h3>
-              <p>Mon to Fri 9am to 6pm</p>
-            </div>
-          </div>
-          <div class="media contact-info">
-            <span class="contact-info__icon"><i class="ti-email"></i></span>
-            <div class="media-body">
-              <h3>support@colorlib.com</h3>
-              <p>Send us your query anytime!</p>
+              <h3>rahul.sunil@mbcet.ac.in</h3>
+                <a href="mailto:rahul.sunil@mbcet.ac.in" target="_blank"><p> Mail Me! </p></a>
             </div>
           </div>
         </div>
@@ -199,60 +170,58 @@
 
     <!-- footer start -->
     <footer class="footer">
-            <div class="footer_top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8">
-                            <div class="lets_talk">
-                                <h3>Do you have any Project? <a href="#">Let’s Talk</a> </h3>
-                                <p>Sed eleifend sed nibh nec fringilla. Donec eu cursus sem, vitae tristique ante. Cras pretium rutrum egestas. Integer ultrices libero sed justo vehicula, eget tincidunt tortor tempus.</p>
-                            </div>
+        <div class="footer_top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="single_links d-flex justify-content-between align-items-center">
+                            <a href="https://github.com/rahulsunil2" target="_blank">
+                                <span>GitHub</span>
+                                <a href="https://github.com/rahulsunil2" target="_blank"> <img src="img/icons/github.png" height="30"> </a>
+                            </a>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-3">
-                            <div class="single_links d-flex justify-content-between align-items-center">
-                                <span>Behance</span>
-                                <a href="#"> <i class="fa fa-behance"></i> </a>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="single_links d-flex justify-content-between align-items-center">
-                                <span>Dribbble</span>
-                                <a href="#"> <i class="fa fa-dribbble"></i> </a>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="single_links d-flex justify-content-between align-items-center">
-                                <span>Medium</span>
-                                <a href="#"> <i class="fa fa-medium"></i> </a>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="single_links d-flex justify-content-between align-items-center">
+                    <div class="col-md-3">
+                        <div class="single_links d-flex justify-content-between align-items-center">
+                            <a href="https://www.linkedin.com/in/rahulsunil2/" target="_blank">
                                 <span>Linkedin</span>
-                                <a href="#"> <i class="fa fa-linkedin"></i> </a>
-                            </div>
+                                <a href="https://www.linkedin.com/in/rahulsunil2/" target="_blank"> <img src="img/icons/linkedin.png" height="30"> </a>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="single_links d-flex justify-content-between align-items-center">
+                            <a href="mailto:rahul.sunil@mbcet.ac.in" target="_blank">
+                                <span>Mail ID</span>
+                                <a href="mailto:rahul.sunil@mbcet.ac.in" target="_blank"> <img src="img/icons/mail.png" height="30"> </a>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="single_links d-flex justify-content-between align-items-center">
+                            <a href="https://www.instagram.com/c.handle.r_bing/" target="_blank">
+                                <span>Instagram</span>
+                                <a href="https://www.instagram.com/c.handle.r_bing/" target="_blank"> <img src="img/icons/instagram.png" height="30"> </a>
+                            </a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="copy-right_text">
-                <div class="container">
-                    <div class="footer_border"></div>
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <p class="copy_right text-center">
-                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            </p>
-                        </div>
+        </div>
+        <div class="copy-right_text">
+            <div class="container">
+                <div class="footer_border"></div>
+                <div class="row">
+                    <div class="col-xl-12">
+                        <p class="copy_right text-center">
+                            Copyright &copy; 2020.
+                        </p>
                     </div>
                 </div>
             </div>
-        </footer>
-        <!--/ footer end  -->
+        </div>
+    </footer>
+    <!--/ footer end  -->
 
 
   <!-- JS here -->
